@@ -1,0 +1,7 @@
+[submodule "themes/solar-theme-hugo"]
+	path = themes/solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "tebru.github.io"]
+	path = tebru.github.io
+	url = git@github.com:tebru/tebru.github.io.git
+	branch = master
