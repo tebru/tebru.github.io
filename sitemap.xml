@@ -4,16 +4,18 @@
   
   <url>
     <loc>http://apps.tebru.net/</loc>
-    <lastmod>2020-01-05T00:09:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://apps.tebru.net/privacy/</loc>
-    <lastmod>2020-01-04T23:58:40-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://apps.tebru.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apps.tebru.net/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apps.tebru.net/privacy/</loc>
   </url>
   
   <url>
