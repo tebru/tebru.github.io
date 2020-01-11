@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://apps.tebru.net/apps/</loc>
+  </url>
+  
+  <url>
     <loc>http://apps.tebru.net/</loc>
   </url>
   
@@ -12,6 +16,14 @@
   
   <url>
     <loc>http://apps.tebru.net/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apps.tebru.net/categories/macos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://apps.tebru.net/apps/password-generator/</loc>
   </url>
   
   <url>
